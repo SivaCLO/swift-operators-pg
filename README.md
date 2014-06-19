@@ -18,6 +18,8 @@ It covers the syntax for all Swift operators along with different ways to use th
 
 Keep this handy and copy-paste the required snippets into your projects.
 
+[Open in XCode 6](https://github.com/hackswift/swift-operators-pg/archive/master.zip)
+
 Feel free to suggest modifications, report issues or improvements in the issues section.
 
 Follow us on Twitter : [@hackswift](http://twitter.com/hackswift)
