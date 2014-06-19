@@ -2,6 +2,7 @@ For more playgrounds like this, visit http://hackswift.co/playgrounds
 
 Swift Operators Playground
 ==========================
+[Open in XCode 6](https://github.com/hackswift/swift-operators-pg/archive/master.zip)
 
 This is a handy playground file that can be used when you are starting to learn swift.
 
@@ -17,8 +18,6 @@ It covers the syntax for all Swift operators along with different ways to use th
 * Bitwise Operators
 
 Keep this handy and copy-paste the required snippets into your projects.
-
-[Open in XCode 6](https://github.com/hackswift/swift-operators-pg/archive/master.zip)
 
 Feel free to suggest modifications, report issues or improvements in the issues section.
 
