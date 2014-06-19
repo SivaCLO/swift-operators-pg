@@ -4,8 +4,6 @@ Swift Operators Playground
 ==========================
 [Open in XCode 6](https://github.com/hackswift/swift-operators-pg/archive/master.zip)
 
-This is a handy playground file that can be used when you are starting to learn swift.
-
 It covers the syntax for all Swift operators along with different ways to use them
 
 * Assignment Operator
